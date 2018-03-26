@@ -1,4 +1,4 @@
 # Sportsmeeting-Tool
- > Based on Qt 5.10.1
- > Using CSS to customize UI
- > Using JSON to read/store data
+ >1.Based on Qt 5.10.1
+ >2.Using CSS to customize UI
+ >3.Using JSON to read/store data
