@@ -1,0 +1,790 @@
+{
+  "events": [
+    {
+      "event_name": "Basketball (Male)",
+      "event_place": "Basketball Court",
+      "candidate": [
+        {
+          "name": "Wang Wang",
+          "college": "Hong Yi",
+          "score": "5Goal"
+        },
+        {
+          "name": "Wang Lang",
+          "college": "Zi Cheng",
+          "score": "2Goal"
+        },
+        {
+          "name": "Wang Sifu",
+          "college": "Jing Yi",
+          "score": "4Goal"
+        },
+        {
+          "name": "Zhang Bing",
+          "college": "Zhi Xing",
+          "score": "3Goal"
+        },
+        {
+          "name": "Wang Wu",
+          "college": "Hong Yi",
+          "score": "0Goal"
+        },
+        {
+          "name": "Wang Ergou",
+          "college": "Zhi Cheng",
+          "score": "1Goal"
+        },
+        {
+          "name": "Wang Badan",
+          "college": "Ming De",
+          "score": "3Goal"
+        }
+      ]
+    },
+    {
+      "event_name": "Football (Male Only)",
+      "event_place": "Football Field",
+      "candidate": [
+        {
+          "name": "Xiao Ming",
+          "college": "Jing Yi",
+          "score": "6Goal"
+        },
+        {
+          "name": "Xiao Hong",
+          "college": "Ming De",
+          "score": "4Goal"
+        },
+        {
+          "name": "Pan Yu",
+          "college": "Zhi Cheng",
+          "score": "4Goal"
+        },
+        {
+          "name": "Xiao Gang",
+          "college": "Zhi Cheng",
+          "score": "5Goal"
+        },
+        {
+          "name": "Xiao Hua",
+          "college": "Hong Yi",
+          "score": "3Goal"
+        },
+        {
+          "name": "Xiao Wang",
+          "college": "Zhi Xing",
+          "score": "3Goal"
+        },
+        {
+          "name": "Li Zihao",
+          "college": "Hong Yi",
+          "score": "3Goal"
+        },
+        {
+          "name": "Xiao Lan",
+          "college": "Si Yuan",
+          "score": "2Goal"
+        }
+      ]
+    },
+    {
+      "event_name": "100Metre (Male)",
+      "event_place": "Track",
+      "candidate": [
+        {
+          "name": "Li Hua",
+          "college": "Jing Yi",
+          "score": "12.75"
+        },
+        {
+          "name": "Wang Wang",
+          "college": "Hong Yi",
+          "score": "11.49"
+        },
+        {
+          "name": "Bo Erte",
+          "college": "Ming De",
+          "score": "9.90"
+        },
+        {
+          "name": "Hk Reporter",
+          "college": "Zhi Cheng",
+          "score": "9.00"
+        },
+        {
+          "name": "Li Zihao",
+          "college": "Hong Yi",
+          "score": "13.20"
+        },
+        {
+          "name": "Chen Qihang",
+          "college": "Jing Yi",
+          "score": "12.33"
+        },
+        {
+          "name": "Li Yugang",
+          "college": "Zhi Xing",
+          "score": "11.88"
+        },
+        {
+          "name": "Li Gang",
+          "college": "Si Yuan",
+          "score": "14.00"
+        }
+      ]
+    },
+    {
+      "event_name": "400Metre (Male)",
+      "event_place": "Track",
+      "candidate": [
+        {
+          "name": "Zhang Guorong",
+          "college": "Jing Yi",
+          "score": "59.75"
+        },
+        {
+          "name": "Li Gang",
+          "college": "Si Yuan",
+          "score": "56.87"
+        },
+        {
+          "name": "Zhang Dapao",
+          "college": "Ming De",
+          "score": "57.90"
+        },
+        {
+          "name": "Zhang Wei",
+          "college": "Zhi Cheng",
+          "score": "62.00"
+        },
+        {
+          "name": "Zhang Yida",
+          "college": "Hong Yi",
+          "score": "58.20"
+        },
+        {
+          "name": "Xiao Hong",
+          "college": "Ming De",
+          "score": "63.54"
+        },
+        {
+          "name": "Zhang Bing",
+          "college": "Zhi Xing",
+          "score": "64.88"
+        },
+        {
+          "name": "Zhang Tao",
+          "college": "Si Yuan",
+          "score": "59.47"
+        }
+      ]
+    },
+    {
+      "event_name": "Long Jump (Male)",
+      "event_place": "Sand Pit",
+      "candidate": [
+        {
+          "name": "Pan Da",
+          "college": "Jing Yi",
+          "score": "2.37"
+        },
+        {
+          "name": "Pan Kongming",
+          "college": "Ming De",
+          "score": "1.98"
+        },
+        {
+          "name": "Pan Yu",
+          "college": "Zhi Cheng",
+          "score": "2.59"
+        },
+        {
+          "name": "Huang Da",
+          "college": "Hong Yi",
+          "score": "2.31"
+        },
+        {
+          "name": "Pan Feng",
+          "college": "Hong Yi",
+          "score": "2.33"
+        },
+        {
+          "name": "Pan Yunlong",
+          "college": "Zhi Xing",
+          "score": "2.67"
+        },
+        {
+          "name": "Xiao Hua",
+          "college": "Hong Yi",
+          "score": "1.99"
+        },
+        {
+          "name": "Pan Kai",
+          "college": "Si Yuan",
+          "score": "2.16"
+        },
+        {
+          "name": "Chen Junhao",
+          "college": "Ming De",
+          "score": "2.25"
+        }
+      ]
+    },
+    {
+      "event_name": "Shot Put (Male)",
+      "event_place": "Grassplot",
+      "candidate": [
+        {
+          "name": "Deng Ziqi",
+          "college": "Jing Yi",
+          "score": "5.37"
+        },
+        {
+          "name": "Zhang San",
+          "college": "Ming De",
+          "score": "7.42"
+        },
+        {
+          "name": "Li Si",
+          "college": "Zhi Cheng",
+          "score": "8.37"
+        },
+        {
+          "name": "Wang Wu",
+          "college": "Hong Yi",
+          "score": "9.25"
+        },
+        {
+          "name": "Li Zihao",
+          "college": "Hong Yi",
+          "score": "5.66"
+        },
+        {
+          "name": "Zhang Dapao",
+          "college": "Ming De",
+          "score": "6.72"
+        },
+        {
+          "name": "Pan Kai",
+          "college": "Si Yuan",
+          "score": "7.62"
+        },
+        {
+          "name": "Chen Xiyan",
+          "college": "Si Yuan",
+          "score": "6.88"
+        },
+        {
+          "name": "Sun Wukong",
+          "college": "Zhi Xing",
+          "score": "12.66"
+        },
+        {
+          "name": "Zhu Bajie",
+          "college": "Si Yuan",
+          "score": "3.42"
+        }
+      ]
+    },
+    {
+      "event_name": "1500Meter (Male Only)",
+      "event_place": "Track",
+      "candidate": [
+        {
+          "name": "Huang yu",
+          "college": "Jing Yi",
+          "score": "3.20"
+        },
+        {
+          "name": "Zhang Tao",
+          "college": "Si Yuan",
+          "score": "4.16"
+        },
+        {
+          "name": "Huang Zhentao",
+          "college": "Ming De",
+          "score": "4.13"
+        },
+        {
+          "name": "Huang Enyi",
+          "college": "Zhi Cheng",
+          "score": "3.48"
+        },
+        {
+          "name": "Huang Da",
+          "college": "Hong Yi",
+          "score": "4.22"
+        },
+        {
+          "name": "Deng Ziqi",
+          "college": "Jing Yi",
+          "score": "3.37"
+        },
+        {
+          "name": "Huang Er",
+          "college": "Zhi Xing",
+          "score": "3.57"
+        },
+        {
+          "name": "Huang San",
+          "college": "Si Yuan",
+          "score": "3.42"
+        }
+      ]
+    },
+    {
+      "event_name": "High Jump (Male)",
+      "event_place": "Near Track",
+      "candidate": [
+        {
+          "name": "Chen Qihang",
+          "college": "Jing Yi",
+          "score": "4.80"
+        },
+        {
+          "name": "Xiao Lan",
+          "college": "Si Yuan",
+          "score": "4.75"
+        },
+        {
+          "name": "Chen Junhao",
+          "college": "Ming De",
+          "score": "4.35"
+        },
+        {
+          "name": "Chen Xiaocong",
+          "college": "Zhi Cheng",
+          "score": "4.55"
+        },
+        {
+          "name": "Chen Haoming",
+          "college": "Hong Yi",
+          "score": "4.45"
+        },
+        {
+          "name": "Chen Zhongwei",
+          "college": "Zhi Xing",
+          "score": "3.70"
+        },
+        {
+          "name": "Chen Xiyan",
+          "college": "Si Yuan",
+          "score": "4.60"
+        }
+      ]
+    },
+        {
+          "event_name": "Basketball (Female)",
+          "event_place": "Basketball Court",
+          "candidate": [
+            {
+              "name": "Luo Xue Yu",
+              "college": "Hong Yi",
+              "score": "3Goal"
+            },
+            {
+              "name": "Zhu Xiang Mei",
+              "college": "Zi Cheng",
+              "score": "1Goal"
+            },
+            {
+              "name": "Chen Yu",
+              "college": "Jing Yi",
+              "score": "4Goal"
+            },
+            {
+              "name": "Zhang Bing Bing",
+              "college": "Hong Yi",
+              "score": "3Goal"
+            },
+            {
+              "name": "Jin Li",
+              "college": "Zi Cheng",
+              "score": "2Goal"
+            },
+            {
+              "name": "Bai Xin Xin",
+              "college": "Si Yuan",
+              "score": "1Goal"
+            },
+            {
+              "name": "Wang Xing",
+              "college": "Ming De",
+              "score": "3Goal"
+            }
+          ]
+        },
+        {
+          "event_name": "100Metre (Female)",
+          "event_place": "Track",
+          "candidate": [
+            {
+              "name": "Bai xin xin",
+              "college": "Hong Yi",
+              "score": "14.55"
+            },
+            {
+              "name": "Chen Ying Shi",
+              "college": "Si Yuan",
+              "score": "13.99"
+            },
+            {
+              "name": "Tan Yi Tian",
+              "college": "Hong Yi",
+              "score": "14.65"
+            },
+            {
+              "name": "Wang Yi Yun",
+              "college": "Zhi Xing",
+              "score": "15.66"
+            },
+            {
+              "name": "Chen Yu",
+              "college": "Hong Yi",
+              "score": "14.32"
+            },
+            {
+              "name": "Lei Ya Shi",
+              "college": "Zhi Cheng",
+              "score": "15.41"
+            },
+            {
+              "name": "Chen Da Gou",
+              "college": "Ming De",
+              "score": "14.52"
+            }
+          ]
+        },
+        {
+          "event_name": "400Metre (Female)",
+          "event_place": "Track",
+          "candidate": [
+            {
+              "name": "Wang Yun Er",
+              "college": "Hong Yi",
+              "score": "1.36.22"
+            },
+            {
+              "name": "Ran Ran",
+              "college": "Zi Cheng",
+              "score": "1.35.33"
+            },
+            {
+              "name": "Zeng Tong",
+              "college": "Jing Yi",
+              "score": "1.45.66"
+            },
+            {
+              "name": "Fan Bing Bing",
+              "college": "Zhi Xing",
+              "score": "1.39.52"
+            },
+            {
+              "name": "Yu Xiao Xue",
+              "college": "Hong Yi",
+              "score": "1.32.89"
+            },
+            {
+              "name": "Xin Xin",
+              "college": "Zhi Cheng",
+              "score": "1.42.57"
+            },
+            {
+              "name": "Bao Ha An",
+              "college": "Ming De",
+              "score": "1.44.12"
+            }
+          ]
+        },
+        {
+          "event_name": "Long Jump (Female)",
+          "event_place": "Sand Pit",
+          "candidate": [
+            {
+              "name": "Bao Ha An",
+              "college": "Ming De",
+              "score": "3.62"
+            },
+            {
+              "name": "Xiao Xiao",
+              "college": "Zi Cheng",
+              "score": "3.56"
+            },
+            {
+              "name": "Li Xiang Lan",
+              "college": "Jing Yi",
+              "score": "3.33"
+            },
+            {
+              "name": "Xun Meng",
+              "college": "Zhi Xing",
+              "score": "3.21"
+            },
+            {
+              "name": "Dan Men",
+              "college": "Hong Yi",
+              "score": "3.55"
+            },
+            {
+              "name": "Man Zhu",
+              "college": "Zhi Cheng",
+              "score": "3.42"
+            },
+            {
+              "name": "Jiang Li",
+              "college": "Ming De",
+              "score": "3.66"
+            }
+          ]
+        },
+        {
+          "event_name": "Shot Put (Female)",
+          "event_place": "Grassplot",
+          "candidate": [
+            {
+              "name": "Wang Wang",
+              "college": "Hong Yi",
+              "score": "5Goal"
+            },
+            {
+              "name": "Wang Lang",
+              "college": "Zi Cheng",
+              "score": "2Goal"
+            },
+            {
+              "name": "Wang Sifu",
+              "college": "Jing Yi",
+              "score": "4Goal"
+            },
+            {
+              "name": "Zhang Bing",
+              "college": "Zhi Xing",
+              "score": "3Goal"
+            },
+            {
+              "name": "Wang Wu",
+              "college": "Hong Yi",
+              "score": "0Goal"
+            },
+            {
+              "name": "Wang Ergou",
+              "college": "Zhi Cheng",
+              "score": "1Goal"
+            },
+            {
+              "name": "Wang Badan",
+              "college": "Ming De",
+              "score": "3Goal"
+            }
+          ]
+        },
+        {
+          "event_name": "High Jump (Female)",
+          "event_place": "Near Track",
+          "candidate": [
+            {
+              "name": "Tan Yi Tian",
+              "college": "Hong Yi",
+              "score": "1.56"
+            },
+            {
+              "name": "Bai Xin Xin",
+              "college": "Zi Cheng",
+              "score": "1.45"
+            },
+            {
+              "name": "Shao Hua",
+              "college": "Jing Yi",
+              "score": "1.52"
+            },
+            {
+              "name": "Fan Bing Bing",
+              "college": "Zhi Xing",
+              "score": "1.63"
+            },
+            {
+              "name": "Ke Er",
+              "college": "Hong Yi",
+              "score": "1.44"
+            },
+            {
+              "name": "Lv Yuan",
+              "college": "Zhi Cheng",
+              "score": "1.53"
+            },
+            {
+              "name": "Wen Jun",
+              "college": "Ming De",
+              "score": "1.51"
+            }
+          ]
+        },
+        {
+          "event_name": "Swimming 50m(Male)",
+          "event_place": "Swimming Pool",
+          "candidate": [
+            {
+              "name": "Zheng Jian Feng",
+              "college": "Hong Yi",
+              "score": "30.66"
+            },
+            {
+              "name": "Huang Yong Bin",
+              "college": "Zi Cheng",
+              "score": "28.24"
+            },
+            {
+              "name": "Guo Jia Liang",
+              "college": "Jing Yi",
+              "score": "31.24"
+            },
+            {
+              "name": "Liang Shao Hong",
+              "college": "Zhi Xing",
+              "score": "30.71"
+            },
+            {
+              "name": "Wang Wu",
+              "college": "Hong Yi",
+              "score": "35.62"
+            },
+            {
+              "name": "Wang Ergou",
+              "college": "Zhi Cheng",
+              "score": "34.51"
+            },
+            {
+              "name": "Da Bai",
+              "college": "Ming De",
+              "score": "33.33"
+            }
+          ]
+        },
+        {
+          "event_name": "Swimming 50m(Female)",
+          "event_place": "Swimming Pool",
+          "candidate": [
+            {
+              "name": "Man Zi Fan",
+              "college": "Hong Yi",
+              "score": "37.23"
+            },
+            {
+              "name": "Tang Yun",
+              "college": "Zi Cheng",
+              "score": "36.55"
+            },
+            {
+              "name": "Zhu Si",
+              "college": "Jing Yi",
+              "score": "37.32"
+            },
+            {
+              "name": "Zhi Ling",
+              "college": "Zhi Xing",
+              "score": "38.69"
+            },
+            {
+              "name": "He Ye",
+              "college": "Hong Yi",
+              "score": "37.58"
+            },
+            {
+              "name": "Wang Xiao",
+              "college": "Zhi Cheng",
+              "score": "39.59"
+            },
+            {
+              "name": "Chen Ying Shi",
+              "college": "Ming De",
+              "score": "38.45"
+            }
+          ]
+        },
+        {
+          "event_name": "800 meter (Female Only)",
+          "event_place": "Track",
+          "candidate": [
+            {
+              "name": "Bai Hong",
+              "college": "Hong Yi",
+              "score": "2.22.23"
+            },
+            {
+              "name": "Chen Ying Xing",
+              "college": "Zi Cheng",
+              "score": "2.35.46"
+            },
+            {
+              "name": "Lao Jie",
+              "college": "Jing Yi",
+              "score": "2.36.47"
+            },
+            {
+              "name": "Lao Mei",
+              "college": "Zhi Xing",
+              "score": "2.45.52"
+            },
+            {
+              "name": "Da Biao Jie",
+              "college": "Hong Yi",
+              "score": "2.33.11"
+            },
+            {
+              "name": "Xiao Biao Jie",
+              "college": "Zhi Cheng",
+              "score": "2.45.21"
+            },
+            {
+              "name": "Wang Wen",
+              "college": "Ming De",
+              "score": "2.38.42"
+            }
+          ]
+        },
+        {
+          "event_name": "3000 meters (Male Only)",
+          "event_place": "Track",
+          "candidate": [
+            {
+              "name": "Wang Wang",
+              "college": "Hong Yi",
+              "score": "12.21.33"
+            },
+            {
+              "name": "Da Ge",
+              "college": "Zi Cheng",
+              "score": "13.56.55"
+            },
+            {
+              "name": "Xiao Ge",
+              "college": "Jing Yi",
+              "score": "14.55.55"
+            },
+            {
+              "name": "Zhang Bing",
+              "college": "Zhi Xing",
+              "score": "13.32.21"
+            },
+            {
+              "name": "Wang Wu Wu",
+              "college": "Hong Yi",
+              "score": "13.56.21"
+            },
+            {
+              "name": "Wang Ergou En",
+              "college": "Zhi Cheng",
+              "score": "12.33.27"
+            },
+            {
+              "name": "Wang Badan Lin",
+              "college": "Ming De",
+              "score": "14.25.52"
+            }
+          ]
+        }
+
+
+  ]
+
+}
