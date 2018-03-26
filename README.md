@@ -1,3 +1,2 @@
 # Sportsmeeting-Tool
-
-# Based on Qt
+ Based on Qt
